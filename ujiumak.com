@@ -10,4 +10,4 @@ liberapay: # ujiumak
 issuehunt: # ujiumak
 otechie: # ujiumak
 kustom: # ['https: // github.com/wifisppadang', 'https: // domainapple.blogspot.com', 'https: // ujiumak.blogspot.com', 'http: // facebook.com/ujiumak .min ']
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>.
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
